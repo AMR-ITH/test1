@@ -379,8 +379,5 @@ background: rgba(168, 148, 77, 0.30);
     .data_container div:nth-child(3) p:last-child{
         font-size: 10px;
     }
-    #modal_container .data_container .close_icon {
-        position: relative;
-        bottom: 4rem;
-    }
+
 }
